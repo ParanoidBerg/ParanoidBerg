@@ -9,13 +9,11 @@
 
 > [Frontend](https://github.com/ParanoidBerg/Hospital_Frontend)
 
-> [Backend](https://github.com/ParanoidBerg/Hospital_Backend)
 
 <h3> Сайт для автомобильной студии:</h3>
 
 > [Frontend](https://github.com/ParanoidBerg/Auto-Tuning-Frontend)
 
-> [Backend](https://github.com/ParanoidBerg/Auto-Tuning-backend)
   
   <h4>Связь со мной</h4>
   <a href="https://t.me/Paranoid_N"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
