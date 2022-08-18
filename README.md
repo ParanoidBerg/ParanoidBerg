@@ -9,7 +9,7 @@
 
 > [Frontend](https://github.com/ParanoidBerg/Hospital_Frontend)
 
-> [Backend](https://github.com/ParanoidBerg/Hospital_Backend
+> [Backend](https://github.com/ParanoidBerg/Hospital_Backend)
 
 <h3> Сайт для автомобильной студии:</h3>
 
