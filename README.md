@@ -5,12 +5,10 @@
 
 <h2>Принимал участие в разработке таких проектов как:</h2>
 
-<h3> Сайт для частной клиники:</h3>
 
 > [Сайт для частной клиники](https://github.com/ParanoidBerg/Hospital_Frontend)
 
 
-<h3> Сайт для автомобильной студии:</h3>
 
 > [Сайт для автомобильной студии](https://github.com/ParanoidBerg/Auto-Tuning-Frontend)
 
