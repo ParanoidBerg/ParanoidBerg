@@ -7,12 +7,12 @@
 
 <h3> Сайт для частной клиники:</h3>
 
-> [Frontend](https://github.com/ParanoidBerg/Hospital_Frontend)
+> [Сайт для частной клиники](https://github.com/ParanoidBerg/Hospital_Frontend)
 
 
 <h3> Сайт для автомобильной студии:</h3>
 
-> [Frontend](https://github.com/ParanoidBerg/Auto-Tuning-Frontend)
+> [Сайт для автомобильной студии](https://github.com/ParanoidBerg/Auto-Tuning-Frontend)
 
   
   <h4>Связь со мной</h4>
