@@ -18,4 +18,4 @@
 > [Backend](https://github.com/ParanoidBerg/Auto-Tuning-backend)
   
   <h4>Связь со мной</h4>
- > [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Paranoid_N)
+  <a href="https://t.me/Paranoid_N"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
